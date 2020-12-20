@@ -1,0 +1,13 @@
+Comment faire un push:
+
+apres avoir fait add . et commit-m ""
+
+1-il faut se positionner sur un repository de github, pour se faire on exécute la commande suivante:
+
+git remot add test https://github.com/kouci/Chamk.git
+
+2- fait ton push
+git push test master
+
+
+Not: test nom de remote  et master c'est la brache principale
